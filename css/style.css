@@ -1,0 +1,15 @@
+body {
+    background-color: grey;
+}
+
+#navbar {
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.menu {
+    margin: 20px;
+    background-color: green;
+    color: white; 
+}
